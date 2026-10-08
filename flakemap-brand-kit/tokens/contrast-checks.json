@@ -1,0 +1,114 @@
+[
+  {
+    "role": "Primary body",
+    "foreground": "#171E33",
+    "background": "#F7F8FA",
+    "contrast": 15.56,
+    "minimum": 4.5,
+    "passes": true
+  },
+  {
+    "role": "Secondary body",
+    "foreground": "#526176",
+    "background": "#EEF2F7",
+    "contrast": 5.61,
+    "minimum": 4.5,
+    "passes": true
+  },
+  {
+    "role": "Main button",
+    "foreground": "#FFFFFF",
+    "background": "#171E33",
+    "contrast": 16.54,
+    "minimum": 4.5,
+    "passes": true
+  },
+  {
+    "role": "Hover button",
+    "foreground": "#FFFFFF",
+    "background": "#77516F",
+    "contrast": 6.58,
+    "minimum": 4.5,
+    "passes": true
+  },
+  {
+    "role": "Copper label",
+    "foreground": "#A6502A",
+    "background": "#F7F8FA",
+    "contrast": 5.2,
+    "minimum": 4.5,
+    "passes": true
+  },
+  {
+    "role": "Error label",
+    "foreground": "#A13252",
+    "background": "#F9E8EF",
+    "contrast": 5.76,
+    "minimum": 4.5,
+    "passes": true
+  },
+  {
+    "role": "Success label",
+    "foreground": "#226747",
+    "background": "#E8F2EA",
+    "contrast": 5.91,
+    "minimum": 4.5,
+    "passes": true
+  },
+  {
+    "role": "Warning label",
+    "foreground": "#7A4E11",
+    "background": "#F8ECD6",
+    "contrast": 6.14,
+    "minimum": 4.5,
+    "passes": true
+  },
+  {
+    "role": "Info label",
+    "foreground": "#345A80",
+    "background": "#EAF0F7",
+    "contrast": 6.27,
+    "minimum": 4.5,
+    "passes": true
+  },
+  {
+    "role": "Focus on pearl",
+    "foreground": "#77516F",
+    "background": "#F7F8FA",
+    "contrast": 6.19,
+    "minimum": 3,
+    "passes": true
+  },
+  {
+    "role": "Control boundary",
+    "foreground": "#718096",
+    "background": "#FFFFFF",
+    "contrast": 4.02,
+    "minimum": 3,
+    "passes": true
+  },
+  {
+    "role": "Dark body",
+    "foreground": "#F7F8FA",
+    "background": "#10172A",
+    "contrast": 16.78,
+    "minimum": 4.5,
+    "passes": true
+  },
+  {
+    "role": "Dark secondary",
+    "foreground": "#DCE7EE",
+    "background": "#10172A",
+    "contrast": 14.18,
+    "minimum": 4.5,
+    "passes": true
+  },
+  {
+    "role": "Dark focus",
+    "foreground": "#DCE7EE",
+    "background": "#10172A",
+    "contrast": 14.18,
+    "minimum": 3,
+    "passes": true
+  }
+]

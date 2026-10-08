@@ -1,0 +1,32 @@
+{
+  "boundary": "DEMO — SYNTHETIC DATA / CONCEPT PREVIEW",
+  "workflow": "PO-204",
+  "baseline": "v0.8",
+  "candidate": "v0.9",
+  "condition": "timeout",
+  "seeds": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108
+  ],
+  "criterion": "Exactly one PO draft per order",
+  "baselineMet": 8,
+  "candidateMet": 6,
+  "denominator": 8,
+  "selected": {
+    "seed": 104,
+    "version": "candidate",
+    "drafts": 2
+  },
+  "humanReview": {
+    "rationale": "Two fictional draft artifacts share PO-204. The exactly-one-draft criterion fails; block the mock candidate.",
+    "decision": "block mock gate"
+  },
+  "uncertainty": "Fixed stub fixtures. Not a production reliability estimate.",
+  "externalWrites": false
+}

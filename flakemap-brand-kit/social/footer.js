@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-social]').forEach(b=>b.addEventListener('click',()=>{const t=document.getElementById('toast');if(t)t.textContent=b.dataset.social+' icon ready. FlakeMap profile URL is not configured.'}));

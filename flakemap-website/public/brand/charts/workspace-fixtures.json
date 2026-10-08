@@ -1,0 +1,71 @@
+{
+  "boundary": "DEMO / synthetic fixed fixtures, no reliability inference",
+  "condition": "Stock API timeout",
+  "baselineDrafts": 1,
+  "records": [
+    {
+      "seed": 101,
+      "duration": 82,
+      "drafts": 1,
+      "owner": "Mira Chen",
+      "time": "2026-10-06 10:12:00 UTC",
+      "review": "No exception"
+    },
+    {
+      "seed": 102,
+      "duration": 91,
+      "drafts": 1,
+      "owner": "Jon Bell",
+      "time": "2026-10-06 10:13:00 UTC",
+      "review": "No exception"
+    },
+    {
+      "seed": 103,
+      "duration": 87,
+      "drafts": 1,
+      "owner": "Mira Chen",
+      "time": "2026-10-06 10:14:00 UTC",
+      "review": "No exception"
+    },
+    {
+      "seed": 104,
+      "duration": 118,
+      "drafts": 2,
+      "owner": "Mira Chen",
+      "time": "2026-10-06 10:15:00 UTC",
+      "review": "Reviewed"
+    },
+    {
+      "seed": 105,
+      "duration": 96,
+      "drafts": 1,
+      "owner": "Mira Chen",
+      "time": "2026-10-06 10:16:00 UTC",
+      "review": "No exception"
+    },
+    {
+      "seed": 106,
+      "duration": 103,
+      "drafts": 1,
+      "owner": "Jon Bell",
+      "time": "2026-10-06 10:17:00 UTC",
+      "review": "No exception"
+    },
+    {
+      "seed": 107,
+      "duration": 89,
+      "drafts": 1,
+      "owner": "Mira Chen",
+      "time": "2026-10-06 10:18:00 UTC",
+      "review": "No exception"
+    },
+    {
+      "seed": 108,
+      "duration": 132,
+      "drafts": 2,
+      "owner": "Jon Bell",
+      "time": "2026-10-06 10:19:00 UTC",
+      "review": "Pending"
+    }
+  ]
+}

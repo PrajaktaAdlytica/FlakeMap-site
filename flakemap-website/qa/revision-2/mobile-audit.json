@@ -1,0 +1,218 @@
+[
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/",
+    "removedLabels": false,
+    "revealSections": 10,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/products",
+    "removedLabels": false,
+    "revealSections": 2,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/products/trust-desk",
+    "removedLabels": false,
+    "revealSections": 4,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/products/trust-review",
+    "removedLabels": false,
+    "revealSections": 4,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/products/trust-proof",
+    "removedLabels": false,
+    "revealSections": 4,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/products/trust-signal",
+    "removedLabels": false,
+    "revealSections": 4,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/products/trust-report",
+    "removedLabels": false,
+    "revealSections": 4,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/problem",
+    "removedLabels": false,
+    "revealSections": 3,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": true,
+    "path": "/solutions",
+    "removedLabels": false,
+    "revealSections": 3,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": true,
+    "path": "/platform",
+    "removedLabels": false,
+    "revealSections": 4,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/evaluation",
+    "removedLabels": false,
+    "revealSections": 4,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": true,
+    "path": "/pricing",
+    "removedLabels": false,
+    "revealSections": 3,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/request-demo",
+    "removedLabels": false,
+    "revealSections": 1,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/sign-in",
+    "removedLabels": false,
+    "revealSections": 1,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/demo",
+    "removedLabels": false,
+    "revealSections": 1,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": true,
+    "path": "/company",
+    "removedLabels": false,
+    "revealSections": 3,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/contact",
+    "removedLabels": false,
+    "revealSections": 1,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/trust",
+    "removedLabels": false,
+    "revealSections": 3,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": true,
+    "path": "/resources",
+    "removedLabels": false,
+    "revealSections": 2,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/resources/the-artifact-is-the-test",
+    "removedLabels": false,
+    "revealSections": 3,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/resources/a-seed-is-not-a-guarantee",
+    "removedLabels": false,
+    "revealSections": 3,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/resources/designing-a-release-gate",
+    "removedLabels": false,
+    "revealSections": 3,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/legal/privacy",
+    "removedLabels": false,
+    "revealSections": 1,
+    "viewport": 390,
+    "width": 390
+  },
+  {
+    "brokenImages": [],
+    "heroVisual": false,
+    "path": "/legal/terms",
+    "removedLabels": false,
+    "revealSections": 1,
+    "viewport": 390,
+    "width": 390
+  }
+]

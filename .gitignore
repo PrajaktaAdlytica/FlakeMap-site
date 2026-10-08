@@ -1,0 +1,10 @@
+.DS_Store
+**/node_modules/
+**/dist/
+**/.ssr/
+*.zip
+npm-debug.log*
+.vercel/
+.env
+.env.*
+!.env.example

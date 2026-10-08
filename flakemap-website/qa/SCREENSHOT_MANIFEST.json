@@ -1,0 +1,310 @@
+{
+  "productBoundary": "FlakeMap concept preview. Synthetic fixture data only.",
+  "assetSources": "Approved original FlakeMap brand kit; see docs/brand-asset-provenance.json and docs/visual-asset-record.json.",
+  "captures": [
+    {
+      "file": "screenshots/home-1440.jpg",
+      "url": "http://127.0.0.1:4322/",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "alt": "Public hero with original glass route illustration and workflow controls",
+      "capturedAt": "2026-10-08T13:20:01.840589+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/home-390.jpg",
+      "url": "http://127.0.0.1:4322/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Mobile public hero",
+      "capturedAt": "2026-10-08T13:27:47.506169+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/story-1440.jpg",
+      "url": "http://127.0.0.1:4322/#story",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "alt": "Chapter 2: timeout, retry, and duplicate draft evidence",
+      "capturedAt": "2026-10-08T13:20:12.977492+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/story-390.jpg",
+      "url": "http://127.0.0.1:4322/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Mobile vertical chapter 2 with synthetic artifacts",
+      "capturedAt": "2026-10-08T13:27:47.909640+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/diagnostic-flip-1440.jpg",
+      "url": "http://127.0.0.1:4322/",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "alt": "Held reverse face of the diagnostic evidence card",
+      "capturedAt": "2026-10-08T13:21:03.951471+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/demo-1440.jpg",
+      "url": "http://127.0.0.1:4322/demo",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "alt": "Desktop seeded run matrix and duplicate draft detail",
+      "capturedAt": "2026-10-08T13:23:27.344951+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/demo-390.jpg",
+      "url": "http://127.0.0.1:4322/demo",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": true,
+      "imageDimensions": {
+        "width": 390,
+        "height": 3771
+      },
+      "alt": "Full mobile synthetic replay workspace",
+      "capturedAt": "2026-10-08T13:25:28.952526+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/demo-matrix-390.jpg",
+      "url": "http://127.0.0.1:4322/demo",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Narrow mobile run matrix with seed 104 selected",
+      "capturedAt": "2026-10-08T13:25:57.929027+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/demo-artifacts-390.jpg",
+      "url": "http://127.0.0.1:4322/demo",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Mobile duplicate artifact pair and persistent synthetic-data ribbon",
+      "capturedAt": "2026-10-08T13:28:32.194679+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/demo-report-1440.jpg",
+      "url": "http://127.0.0.1:4322/demo",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "alt": "Prepared mock JSON gate report and human rationale",
+      "capturedAt": "2026-10-08T13:24:04.340581+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/pricing-1440.jpg",
+      "url": "http://127.0.0.1:4322/pricing",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": true,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 3182
+      },
+      "alt": "Desktop pricing hypotheses and proposed study scope",
+      "capturedAt": "2026-10-08T13:24:24.151357+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/pricing-390.jpg",
+      "url": "http://127.0.0.1:4322/pricing",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": true,
+      "imageDimensions": {
+        "width": 390,
+        "height": 3965
+      },
+      "alt": "Mobile hypothesis pricing",
+      "capturedAt": "2026-10-08T13:09:05.456981+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/request-1440.jpg",
+      "url": "http://127.0.0.1:4322/request-demo",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": true,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1941
+      },
+      "alt": "Desktop study qualification and consent preview form",
+      "capturedAt": "2026-10-08T13:24:57.386286+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/request-390.jpg",
+      "url": "http://127.0.0.1:4322/request-demo",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": true,
+      "imageDimensions": {
+        "width": 390,
+        "height": 3153
+      },
+      "alt": "Mobile study qualification preview form",
+      "capturedAt": "2026-10-08T13:09:06.872631+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/form-success-1440.jpg",
+      "url": "http://127.0.0.1:4322/request-demo",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "alt": "Desktop local completion: request explicitly not sent",
+      "capturedAt": "2026-10-08T13:25:13.951907+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/form-success-390.jpg",
+      "url": "http://127.0.0.1:4322/request-demo",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Mobile local completion: request explicitly not sent",
+      "capturedAt": "2026-10-08T13:26:41.373059+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/sign-in-1440.jpg",
+      "url": "http://127.0.0.1:4322/sign-in",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 1440,
+        "height": 1000
+      },
+      "alt": "Desktop secure-link interface preview",
+      "capturedAt": "2026-10-08T13:24:37.016991+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/sign-in-390.jpg",
+      "url": "http://127.0.0.1:4322/sign-in",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": true,
+      "imageDimensions": {
+        "width": 390,
+        "height": 2045
+      },
+      "alt": "Mobile sign-in interface preview",
+      "capturedAt": "2026-10-08T13:09:08.188936+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    },
+    {
+      "file": "screenshots/trust-proof-390.jpg",
+      "url": "http://127.0.0.1:4322/products/trust-proof",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": false,
+      "imageDimensions": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Mobile module hero and fault illustration",
+      "capturedAt": "2026-10-08T13:09:33.605778+00:00",
+      "method": "Genuine browser screenshot; no compositing or UI-image generation"
+    }
+  ]
+}

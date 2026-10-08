@@ -1,0 +1,277 @@
+{
+  "version": "1.2.0",
+  "direction": "Prism Replay",
+  "primitive": {
+    "color": {
+      "pearl": "#F7F8FA",
+      "mist": "#EEF2F7",
+      "ice": "#DCE7EE",
+      "sage": "#E1EBE6",
+      "ink": "#171E33",
+      "slate": "#526176",
+      "plum": "#77516F",
+      "copper": "#A6502A",
+      "white": "#FFFFFF",
+      "warm": "#F4F0E9",
+      "line": "#CBD4E0",
+      "control": "#718096",
+      "success": "#226747",
+      "successSurface": "#E8F2EA",
+      "warning": "#7A4E11",
+      "warningSurface": "#F8ECD6",
+      "error": "#A13252",
+      "errorSurface": "#F9E8EF",
+      "info": "#345A80",
+      "infoSurface": "#EAF0F7",
+      "night": "#10172A"
+    }
+  },
+  "semantic": {
+    "light": {
+      "canvas": "pearl",
+      "surface": "white",
+      "surface-subtle": "mist",
+      "text-primary": "ink",
+      "text-secondary": "slate",
+      "border": "line",
+      "control-border": "control",
+      "action-primary": "ink",
+      "action-primary-hover": "plum",
+      "action-primary-text": "white",
+      "focus": "plum",
+      "accent": "copper",
+      "status-success": "success",
+      "status-success-bg": "successSurface",
+      "status-warning": "warning",
+      "status-warning-bg": "warningSurface",
+      "status-error": "error",
+      "status-error-bg": "errorSurface",
+      "status-info": "info",
+      "status-info-bg": "infoSurface"
+    },
+    "dark": {
+      "canvas": "night",
+      "surface": "ink",
+      "surface-subtle": "ink",
+      "text-primary": "pearl",
+      "text-secondary": "ice",
+      "border": "control",
+      "control-border": "ice",
+      "action-primary": "pearl",
+      "action-primary-hover": "ice",
+      "action-primary-text": "ink",
+      "focus": "ice",
+      "accent": "copper"
+    }
+  },
+  "type": {
+    "display": "Instrument Serif",
+    "body": "Manrope",
+    "wordmark": "Manrope 800 outlines",
+    "data": "Manrope with tabular numerals"
+  },
+  "space": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64,
+    96,
+    128
+  ],
+  "radius": {
+    "control": 10,
+    "panel": 16,
+    "feature": 24
+  },
+  "motion": {
+    "micro": 160,
+    "selection": 240,
+    "reveal": 480,
+    "maxPointerDisplacement": 6,
+    "flip": 580,
+    "flipPerspective": 1200
+  },
+  "layout": {
+    "contentMax": 1280,
+    "readingMax": 680,
+    "dashboardMax": 1600,
+    "desktop": {
+      "columns": 12,
+      "gutter": 24,
+      "margin": 64
+    },
+    "tablet": {
+      "columns": 8,
+      "gutter": 20,
+      "margin": 32
+    },
+    "mobile": {
+      "columns": 4,
+      "gutter": 16,
+      "margin": 20
+    },
+    "breakpoints": {
+      "mobileMax": 767,
+      "tabletMax": 1199
+    },
+    "sectionPadding": {
+      "desktop": 96,
+      "tablet": 64,
+      "mobile": 48
+    }
+  },
+  "textStyles": {
+    "display-xl": {
+      "family": "Instrument Serif",
+      "weight": 400,
+      "desktop": 104,
+      "mobile": 56,
+      "lineHeight": 1.02,
+      "tracking": "-0.035em"
+    },
+    "display-lg": {
+      "family": "Instrument Serif",
+      "weight": 400,
+      "desktop": 72,
+      "mobile": 44,
+      "lineHeight": 1.06,
+      "tracking": "-0.03em"
+    },
+    "display-md": {
+      "family": "Instrument Serif",
+      "weight": 400,
+      "desktop": 48,
+      "mobile": 36,
+      "lineHeight": 1.1,
+      "tracking": "-0.025em"
+    },
+    "heading-lg": {
+      "family": "Manrope",
+      "weight": 800,
+      "desktop": 32,
+      "mobile": 26,
+      "lineHeight": 1.2,
+      "tracking": "-0.03em"
+    },
+    "heading-md": {
+      "family": "Manrope",
+      "weight": 700,
+      "desktop": 24,
+      "mobile": 22,
+      "lineHeight": 1.3,
+      "tracking": "-0.02em"
+    },
+    "heading-sm": {
+      "family": "Manrope",
+      "weight": 700,
+      "desktop": 18,
+      "mobile": 18,
+      "lineHeight": 1.35,
+      "tracking": "-0.015em"
+    },
+    "body-lg": {
+      "family": "Manrope",
+      "weight": 400,
+      "desktop": 18,
+      "mobile": 17,
+      "lineHeight": 1.65,
+      "tracking": "0"
+    },
+    "body-md": {
+      "family": "Manrope",
+      "weight": 400,
+      "desktop": 16,
+      "mobile": 16,
+      "lineHeight": 1.65,
+      "tracking": "0"
+    },
+    "body-sm": {
+      "family": "Manrope",
+      "weight": 500,
+      "desktop": 14,
+      "mobile": 14,
+      "lineHeight": 1.55,
+      "tracking": "0"
+    },
+    "label": {
+      "family": "Manrope",
+      "weight": 600,
+      "desktop": 13,
+      "mobile": 13,
+      "lineHeight": 1.4,
+      "tracking": "0"
+    },
+    "caption": {
+      "family": "Manrope",
+      "weight": 500,
+      "desktop": 12,
+      "mobile": 12,
+      "lineHeight": 1.5,
+      "tracking": "0"
+    },
+    "eyebrow": {
+      "family": "Manrope",
+      "weight": 700,
+      "desktop": 11,
+      "mobile": 11,
+      "lineHeight": 1.4,
+      "tracking": "0.12em"
+    }
+  },
+  "shadow": {
+    "none": "none",
+    "subtle": "0 2px 6px rgba(23,30,51,.05)",
+    "raised": "0 8px 24px rgba(23,30,51,.08)",
+    "hover": "0 12px 32px rgba(23,30,51,.12)",
+    "overlay": "0 24px 64px rgba(23,30,51,.18)",
+    "focus": "0 0 0 4px rgba(119,81,111,.16)"
+  },
+  "component": {
+    "button": {
+      "height": 48,
+      "compactHeight": 40,
+      "iconTarget": 44,
+      "paddingX": 20,
+      "gap": 8
+    },
+    "card": {
+      "paddingDesktop": 32,
+      "paddingMobile": 24,
+      "gap": 16,
+      "borderWidth": 1
+    },
+    "input": {
+      "height": 48,
+      "paddingX": 14,
+      "labelGap": 8,
+      "helpGap": 6
+    },
+    "table": {
+      "rowMinHeight": 48,
+      "cellPaddingX": 16,
+      "cellPaddingY": 12
+    },
+    "diagram": {
+      "stroke": 1.5,
+      "nodeRadius": 12,
+      "labelSize": 14
+    },
+    "icon": {
+      "viewBox": "0 0 24 24",
+      "stroke": 1.5,
+      "linecap": "round",
+      "linejoin": "round",
+      "sizes": [
+        16,
+        20,
+        24,
+        32
+      ],
+      "textGap": 8
+    }
+  }
+}

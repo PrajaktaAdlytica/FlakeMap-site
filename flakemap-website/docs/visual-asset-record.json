@@ -1,0 +1,39 @@
+{
+  "method": "Built-in Image Generation",
+  "date": "2026-10-08",
+  "assets": [
+    {
+      "file": "illustrations/seed-lattice.png",
+      "prompt": "Use case: stylized-concept. Original FlakeMap Prism Replay website illustration, landscape 1536x1024. A physical seeded test lattice: eight parallel thin translucent frosted glass strips travel across a pearl-white architectural bench, each follows same three subtle bends, six exit aligned and two visibly split at a tiny copper fault seam. Elegant controlled 3D material study, pale sage #E1EBE6, ice #DCE7EE, pearl #F7F8FA and ink shadows. Clearly countable eight lanes, restrained refraction, soft studio lighting, sophisticated calm engineering atmosphere. Object occupies lower two-thirds leaving upper third clean. No text, labels, numbers, interface, logos, birds, feathers, robots, orbs, spheres, neon or particles. Art is illustrative and not a data chart.",
+      "status": "Original material illustration. Not product telemetry or measured data."
+    },
+    {
+      "file": "illustrations/evidence-archive.png",
+      "prompt": "Use case: stylized-concept. Original FlakeMap Prism Replay evidence archive illustration, landscape 1536x1024. A warm off-white quiet tabletop holding three precisely arranged translucent frosted glass folios, one upright thin pane and two staggered flat panes. A single folded pale sage glass route threads through the folios, with one small copper seam on the upright pane, suggesting linking evidence to a human decision. Premium editorial 3D material study, sculptural yet practical architectural planes, #F4F0E9 warm ground, #DCE7EE ice, #E1EBE6 sage, restrained dark #171E33 edges. Soft window light, controlled contact shadows, negative space above. No writing, labels, UI, numbers, documents with fake text, logos, humans, birds, feathers, robots, orbs or neon. Distinct composition from a ribbon hero; illustration only.",
+      "status": "Original material illustration. Not product telemetry or measured data."
+    }
+  ],
+  "social": {
+    "linkedin": {
+      "file": "social/linkedin.svg",
+      "source": "https://brand.linkedin.com/in-logo",
+      "method": "Official inbug-blue-28 symbol, unchanged path and official blue, packaged as standalone SVG."
+    },
+    "crunchbase": {
+      "file": "social/crunchbase.png",
+      "sourcePage": "https://about.crunchbase.com",
+      "asset": "https://cdn.prod.website-files.com/687e6d0359c517be389ea464/6909b8953a896d2ea59effbe_favicon.png",
+      "method": "Unmodified official-site icon."
+    },
+    "destinationStatus": "FlakeMap profile URLs not configured; controls explain state locally."
+  },
+  "v1.3_additions": {
+    "original_svg": [
+      "charts/run-duration.svg",
+      "diagrams/study-boundary.svg"
+    ],
+    "fixture_data": "charts/workspace-fixtures.json",
+    "references": "User-supplied CallTether and Ramp screenshots: pattern inspiration only; no copied assets",
+    "boundary": "Synthetic illustrative asset; no customer or performance claims"
+  }
+}
