@@ -253,6 +253,12 @@ function Footer({ motion, setMotion }) {
           </div>
           <div>
             <Eyebrow>Company</Eyebrow>
+            <address className="company-address">
+              2No. 47 Hoang Van Thu, Pleiku<br />
+              Pleiku<br />
+              Gia Lai<br />
+              Vietnam
+            </address>
             {[
               ["/company", "About FlakeMap"],
               ["/pricing", "Pricing hypotheses"],

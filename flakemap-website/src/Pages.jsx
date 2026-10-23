@@ -1019,6 +1019,13 @@ export function Company() {
               a named reviewer. Work outward from the evidence each team can
               inspect and reproduce.
             </p>
+            <Eyebrow>Company address</Eyebrow>
+            <address className="company-address">
+              2No. 47 Hoang Van Thu, Pleiku<br />
+              Pleiku<br />
+              Gia Lai<br />
+              Vietnam
+            </address>
           </div>
         </div>
       </section>

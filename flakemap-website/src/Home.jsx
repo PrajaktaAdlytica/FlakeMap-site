@@ -20,6 +20,9 @@ export default function Home({ onReplayIntro }) {
     [stack, setStack] = useState("langsmith");
   return (
     <>
+      <aside className="funding-announcement" aria-label="Funding announcement">
+        Funding announcement coming soon. Investment amount and VC details to follow.
+      </aside>
       <section className="hero">
         <div className="hero-art" aria-hidden="true" />
         <div className="container hero-content">
